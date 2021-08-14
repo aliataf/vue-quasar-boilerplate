@@ -1,0 +1,14 @@
+{
+	"workbench.tree.indent": 15,
+	"workbench.tree.renderIndentGuides": "always",
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true
+	},
+	"vetur.validation.template": false,
+	"vetur.format.enable": false,
+	"eslint.validate": ["javascript", "javascriptreact", "typescript", "vue"],
+
+	"vetur.experimental.templateInterpolationService": true
+}
